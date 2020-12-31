@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: master-service
-        image: https://sampleurl/cloudgittest02/master-service:1-0-1
+        image: https://sampleurl/cloudgittest02/master-service:1-0-2
         ports:
         - containerPort: 8081
 ---
